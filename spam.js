@@ -466,12 +466,12 @@ async function op6(numero, quantidade) {
 function options() {
 	console.clear();
 	
-	console.log('ılı.lıllılı.ıllı..ılı.lıllılı.ıllı\n');
+	console.log('•••••••••••••••••••••••••••••••••\n');
 	
 	console.log('𝐒𝐩𝐚𝐦 𝐒𝐦𝐬 𝐯𝟏.𝟎'.help);
 	console.log('      𝐁𝐲 𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝\n'.help);
 	
-	console.log('ılı.lıllılı.ıllı..ılı.lıllılı.ıllı\n');
+	console.log('•••••••••••••••••••••••••••••••••\n');
 	
 	console.log('1 - Spam FS  [ Vivo ]'.yellow);
 	console.log('2 - Spam FS  [ Claro ]'.yellow);
