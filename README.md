@@ -1,6 +1,7 @@
 ## Spam v1.0
 
-#### Meu Canal : https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg
+<b>[YouTube](https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg)</b>
+<br>
 
 #### Meu Discord : Twist#5537
 
