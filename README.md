@@ -10,7 +10,7 @@
 <br>
 
 #### Meu Discord : Twist#5537
-* [Youtube](https://www.youtube.com/devaprender.com)
+[Youtube](https://www.youtube.com/devaprender.com)
 
 #### Se você for copiar o código deixe os créditos!!
 > Resumo : Dar Spam SMS em número de telefone.
