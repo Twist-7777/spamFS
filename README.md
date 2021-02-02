@@ -1,7 +1,7 @@
 ## Spam v1.0
 
 
-### ME AJUDEM !!
+### Ajuda meu canal e entra no Discord da FS
 
 <b>• [YouTube](https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg)</b>
 <br>
