@@ -473,12 +473,12 @@ function options() {
 	
 	console.log('ılı.lıllılı.ıllı..ılı.lıllılı.ıllı\n');
 	
-	console.log('1 - Spam API  [ Vivo ]'.yellow);
-	console.log('2 - Spam API  [ Claro ]'.yellow);
-	console.log('3 - Spam API  [ 99 Food ]'.yellow);
-	console.log('4 - Spam API  [ Aiqfome ]'.yellow);
-	console.log('5 - Spam API  [ Uber Eats ]'.yellow);
-	console.log('6 - Spam API  [ RecargaMulti ]'.yellow);
+	console.log('1 - Spam FS  [ Vivo ]'.yellow);
+	console.log('2 - Spam FS  [ Claro ]'.yellow);
+	console.log('3 - Spam FS  [ 99 Food ]'.yellow);
+	console.log('4 - Spam FS  [ Aiqfome ]'.yellow);
+	console.log('5 - Spam FS  [ Uber Eats ]'.yellow);
+	console.log('6 - Spam FS  [ RecargaMulti ]'.yellow);
 	console.log('0 - Sair\n'.yellow);
 	return readLine.question('Qual opção deseja: '.error);
 }
