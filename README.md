@@ -12,8 +12,8 @@
 #### Meu Discord : Twist#5537
 
 
-##### Se você for copiar o código deixe os créditos!!
-Resumo : Dar Spam SMS em número de telefone.
+#### Se você for copiar o código deixe os créditos!!
+> Resumo : Dar Spam SMS em número de telefone.
 Não me responsabilizo se der merda!!
 
 
