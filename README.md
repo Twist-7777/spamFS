@@ -3,9 +3,11 @@
 
 ### Ajuda meu canal e entra no Discord da FS
 
-• [YouTube](https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg)
+<b>• [YouTube](https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg)</b>
+<br>
 
-• [Fire Squad](https://discord.gg/MNHaPVeZb7)
+<b>• [Fire Squad](https://discord.gg/MNHaPVeZb7)</b>
+<br>
 
 #### Meu Discord : Twist#5537
 
