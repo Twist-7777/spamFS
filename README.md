@@ -31,10 +31,10 @@ Não me responsabilizo se der merda!!
 ### Uso:
 
 ```php
-git clone https://github.com/Twist-7777/spamFS
-cd spamFS
-bash install.sh
-node spam.js
+$ git clone https://github.com/Twist-7777/spamFS
+$ cd spamFS
+$ bash install.sh
+$ node spam.js
 ```
 
 ### TWIST HACKING
