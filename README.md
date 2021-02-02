@@ -18,7 +18,7 @@
 ### Uso:
 
 ```
-git clone 
+git clone https://github.com/Twist-7777/spamFS
 cd spamFS
 bash install.sh
 node spam.js
