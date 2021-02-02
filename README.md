@@ -6,7 +6,7 @@
 <b>• [YouTube](https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg)</b>
 <br>
 
-<b>• [Discord Da Fire Squad](https://discord.gg/MNHaPVeZb7)</b>
+<b>• [Fire Squad](https://discord.gg/MNHaPVeZb7)</b>
 <br>
 
 #### Meu Discord : Twist#5537
