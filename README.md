@@ -2,7 +2,7 @@
 
 #### Meu Canal : https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg
 
-#### Meu Instagram : 
+#### Meu Discord : Twist#5537
 
 
 ### Recurso:
@@ -21,5 +21,7 @@
 git clone 
 cd spamFS
 bash install.sh
-onde spam.js
+node spam.js
 ```
+
+### TWIST HACKING
