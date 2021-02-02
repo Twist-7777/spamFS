@@ -1,9 +1,12 @@
 ## Spam v1.0
 
-<b>[YouTube](https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg)</b>
+
+### ME AJUDEM !!
+
+<b>• [YouTube](https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg)</b>
 <br>
 
-<b>[Discord Da Fire Squad](https://discord.gg/MNHaPVeZb7)</b>
+<b>• [Discord Da Fire Squad](https://discord.gg/MNHaPVeZb7)</b>
 <br>
 
 #### Meu Discord : Twist#5537
@@ -13,8 +16,6 @@
 Resumo : Dar Spam SMS em número de telefone.
 Não me responsabilizo se der merda!!
 
-<b>• [Teste](HTTPS://xvideos.com)</b>
-<br>
 
 
 ### Recurso:
