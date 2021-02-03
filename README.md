@@ -19,6 +19,17 @@
 > Resumo : Dar Spam SMS em número de telefone.
 Não me responsabilizo se der merda!!
 
+### Códigos:
+
+```php
+$ apt update && upgrade
+$ pkg install git
+$ git clone https://github.com/Twist-7777/spamFS
+$ cd spamFS
+$ bash install.sh
+$ node spam.js
+
+```
 
 
 ### Recurso:
@@ -30,16 +41,6 @@ Não me responsabilizo se der merda!!
 #### Spam RecargaMulti
 
 ![By Twist](https://cdn.discordapp.com/attachments/805243146258743306/805970552622809108/Screenshot_20210201-221748_Termux2.jpg)
-
-### Uso:
-
-```php
-$ git clone https://github.com/Twist-7777/spamFS
-$ cd spamFS
-$ bash install.sh
-$ node spam.js
-
-```
 
 
 ### FIRE SQUAD
