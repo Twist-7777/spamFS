@@ -1,7 +1,13 @@
 ## Spam v1.0
 
 
-### Ajuda meu canal e entra no Discord da FS
+<p align="center">
+  <a href="https://discord.com/channels/@me/805514618205241344">
+    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+  </a>
+
+
+### Ajude-Me
 
 • [YouTube](https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg)
 
@@ -34,5 +40,6 @@ $ bash install.sh
 $ node spam.js
 
 ```
+
 
 ### TWIST HACKING
