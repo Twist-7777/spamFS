@@ -42,4 +42,4 @@ $ node spam.js
 ```
 
 
-### TWIST HACKING
+### FIRE SQUAD
