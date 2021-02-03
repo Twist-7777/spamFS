@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://discord.com/channels/@me/805514618205241344">
-    <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+    <img src="" alt="CANAL LOGO" width="200" height="165">
   </a>
 
 
