@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://discord.com/channels/@me/805514618205241344">
+  <a href="https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg">
     <img src="https://cdn.discordapp.com/attachments/805243146258743306/806327005381132308/SPOILER_download.png" alt="CANAL LOGO" width="200" height="165">
   </a>
 
