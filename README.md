@@ -40,7 +40,7 @@ $ node spam.js
 #### Spam Uber Eats
 #### Spam RecargaMulti
 
-![By Twist](https://cdn.discordapp.com/attachments/805243146258743306/805970552622809108/Screenshot_20210201-221748_Termux2.jpg)
+![By Twist](https://cdn.discordapp.com/attachments/806587907120431153/806936892645834822/SPOILER_Screenshot_20210204-141751_Termux2.jpg)
 
 
 ### FIRE SQUAD
