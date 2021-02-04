@@ -13,7 +13,7 @@
 
 • [Fire Squad](https://discord.gg/MNHaPVeZb7)
 
-• [Meu Discord](https://discord.com/channels/@me/805514618205241344)
+• Meu Discord Twist#5537
 
 #### Se você for copiar o código deixe os créditos!!
 > Resumo : Dar Spam SMS em número de telefone.
