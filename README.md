@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg">
-    <img src="" alt=" " width="200" height="165">
+    <img src="https://cdn.discordapp.com/attachments/807410995857063977/814671590779387934/download_2.png" alt=" " width="200" height="165">
   </a>
 
 
