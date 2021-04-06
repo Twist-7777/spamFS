@@ -11,9 +11,7 @@
 
 • [YouTube](https://youtube.com/channel/UCBZld3eQeyxKmNeholLkpCg)
 
-• [Fire Squad](https://discord.gg/MNHaPVeZb7)
-
-• Meu Discord Twist#5537
+• Meu Discord 𝙽𝚎𝚘𝚡#5537
 
 #### Se você for copiar o código deixe os créditos!!
 > Resumo : Dar Spam SMS em número de telefone.
@@ -40,7 +38,7 @@ $ node spam.js
 #### Spam Uber Eats
 #### Spam RecargaMulti
 
-![By Twist](https://cdn.discordapp.com/attachments/806587907120431153/806936892645834822/SPOILER_Screenshot_20210204-141751_Termux2.jpg)
+![By Neox](https://cdn.discordapp.com/attachments/806587907120431153/806936892645834822/SPOILER_Screenshot_20210204-141751_Termux2.jpg)
 
 
-### FIRE SQUAD
+### Neox
