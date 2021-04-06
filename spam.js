@@ -78,19 +78,19 @@ async function op1(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #Spamrito'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else if (response["code"] == 101) {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ops, o %s não corresponde a operadora Vivo. ] #Spamrito'.error, numero));
+				process.exit(console.log('Falhou » [ Ops, o %s não corresponde a operadora Vivo. ] #𝙽𝚎𝚘𝚡'.error, numero));
 			} else if (response["code"] == 106) {
 				console.clear();
-				process.exit(console.log('Falhou » [ Cliente com uma linha desativada. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Cliente com uma linha desativada. ] #𝙽𝚎𝚘𝚡'.error));
 			} else if (response["code"] == 109) {
 				console.clear();
-				process.exit(console.log('Falhou » [ Cliente com uma linha cancelada. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Cliente com uma linha cancelada. ] #𝙽𝚎𝚘𝚡'.error));
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido (%s). ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error, response["code"]));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido (%s). ] #𝙽𝚎𝚘𝚡'.error, response["code"]));
 			}
 	});
 	
@@ -99,7 +99,7 @@ async function op1(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝙽𝚎𝚘𝚡'.help));
 	} else {
 		op1(numero, quantidade);
 	}
@@ -135,10 +135,10 @@ async function op2(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝙽𝚎𝚘𝚡'.error));
 			}
 	});
 	
@@ -147,7 +147,7 @@ async function op2(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝙽𝚎𝚘𝚡'.help));
 	} else {
 		op2(numero, quantidade);
 	}
@@ -178,16 +178,16 @@ async function op3(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else if (response["errno"] == 40001) {
 				console.clear();
-				process.exit(console.log('Falhou » [ Número de telefone com formato inválido. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Número de telefone com formato inválido. ] #𝙽𝚎𝚘𝚡'.error));
 			} else if (response["errno"] == 53001) {
 				console.clear();
-				process.exit(console.log('Falhou » [ Excesso de tentativas, tente novamente em breve. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Excesso de tentativas, tente novamente em breve. ] #𝙽𝚎𝚘𝚡'.error));
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝙽𝚎𝚘𝚡'.error));
 			}
 	});
 	
@@ -196,7 +196,7 @@ async function op3(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝙽𝚎𝚘𝚡'.help));
 	} else {
 		op3(numero, quantidade);
 	}
@@ -228,10 +228,10 @@ async function op4(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝙽𝚎𝚘𝚡'.error));
 			}
 	});
 	
@@ -240,7 +240,7 @@ async function op4(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝙽𝚎𝚘𝚡'.help));
 	} else {
 		op4(numero, quantidade);
 	}
@@ -273,16 +273,16 @@ async function op5(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else if (res.body.match(/SMS_OTP_TOO_MANY_REQUESTS/i)) {
 				console.clear();
-				process.exit(console.log('Falhou » [ Excesso de tentativas, tente novamente em breve. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Excesso de tentativas, tente novamente em breve. ] #𝙽𝚎𝚘𝚡'.error));
 			} else if (res.body.match(/BANNED/)) {
 				console.clear();
-				process.exit(console.log('Falhou » [ Numero inserido está com conta desativada. ] #Spamrito'.error));
+				process.exit(console.log('Falhou » [ Numero inserido está com conta desativada. ] #𝙽𝚎𝚘𝚡'.error));
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝙽𝚎𝚘𝚡'.error));
 			}
 	});
 	
@@ -291,7 +291,7 @@ async function op5(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝙽𝚎𝚘𝚡'.help));
 	} else {
 		op5(numero, quantidade);
 	}
@@ -326,12 +326,12 @@ async function op6(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else if (response["error"]["code"] == 400 || response["error"]["code"] == 0) {
 				// TOO_MANY_REQUESTS
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝙽𝚎𝚘𝚡'.error));
 			}
 	});
 	
@@ -355,12 +355,12 @@ async function op6(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else if (response["error"]["code"] == 400 || response["error"]["code"] == 0) {
 				// TOO_MANY_REQUESTS
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝙽𝚎𝚘𝚡'.error));
 			}
 	});
 	
@@ -384,12 +384,12 @@ async function op6(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #Spamrito'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados: %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else if (response["error"]["code"] == 400 || response["error"]["code"] == 0) {
 				// TOO_MANY_REQUESTS
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #Spamrito'.error));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝙽𝚎𝚘𝚡'.error));
 			}
 	});
 	
@@ -413,12 +413,12 @@ async function op6(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else if (response["error"]["code"] == 400 || response["error"]["code"] == 0) {
 				// TOO_MANY_REQUESTS
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝙽𝚎𝚘𝚡'.error));
 			}
 	});
 	tools.sleep(2000);
@@ -441,12 +441,12 @@ async function op6(numero, quantidade) {
 				b1.update(spam.enviados, {
 					enviados: spam.enviados
 				});
-				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.success, numero, spam.enviados);
+				// console.log('Sucesso » [ Numero: %s, Enviados %s, Retorno: SMS enviado com sucesso. ] #𝙽𝚎𝚘𝚡'.success, numero, spam.enviados);
 			} else if (response["error"]["code"] == 400 || response["error"]["code"] == 0) {
 				// TOO_MANY_REQUESTS
 			} else {
 				console.clear();
-				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.error));
+				process.exit(console.log('Falhou » [ Ocorreu um error desconhecido. ] #𝙽𝚎𝚘𝚡'.error));
 			}
 	});
 	
@@ -455,7 +455,7 @@ async function op6(numero, quantidade) {
 		b1.start(quantidade, quantidade, {
 			enviados: spam.enviados
 		});
-		process.exit(console.log('\n\nAtaque finalizado! #𝐅𝐢𝐫𝐞 𝐒𝐪𝐮𝐚𝐝'.help));
+		process.exit(console.log('\n\nAtaque finalizado! #𝙽𝚎𝚘𝚡'.help));
 	} else {
 		op6(numero, quantidade);
 	}
@@ -469,7 +469,7 @@ function options() {
 	console.log('•••••••••••••••••••••••••••••••••\n');
 	
 	console.log('𝑺𝒑𝒂𝒎 𝑺𝒎𝒔 𝒗1.0'.help);
-	console.log('    𝑩𝒚 𝑭𝒊𝒓𝒆 𝑺𝒒𝒖𝒂𝒅\n'.help);
+	console.log('    𝑩𝒚 𝙽𝚎𝚘𝚡\n'.help);
 	
 	console.log('•••••••••••••••••••••••••••••••••\n');
 	
